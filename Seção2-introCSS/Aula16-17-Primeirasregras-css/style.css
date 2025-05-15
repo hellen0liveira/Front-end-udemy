@@ -24,6 +24,7 @@ p{
     text-indent: 28px;
     font-size:17px;
     text-align: left;
-    color: #0000ff /* ou #00F */
+    color: #0000ff; /* ou #00F */
+    text-transform: capitalize;
 
 }
