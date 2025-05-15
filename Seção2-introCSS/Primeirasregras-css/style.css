@@ -1,11 +1,29 @@
+body{
+    background-color: rgb(176, 197, 252);
+}
+
+
 h1{
     color:blue;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 56px;
+    text-align: center;
 }
 
 h2{
     font-size: 48px;
+    font-family: Arial, Helvetica, sans-serif;
     font-style: italic;
     color: aquamarine;
+    text-decoration: underline;
+    background-color: blue;
+    text-align: center;
+}
+
+p{
+    text-indent: 28px;
+    font-size:17px;
+    text-align: left;
+    color: #0000ff /* ou #00F */
+
 }
